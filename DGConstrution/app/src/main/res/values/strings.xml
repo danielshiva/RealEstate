@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">DGConstrution</string>
+
+    <string-array name="category_list">
+        <item>Site works</item>
+        <item>Interior works</item>
+        <item>Table works</item>
+        <item>Special painting</item>
+        <item>Raw materials</item>
+        <item>Landscape works</item>
+        <item>Contact Us</item>
+        <item>About Us</item>
+    </string-array>
+
+    <string-array name="table_works_list">
+        <item>Planning</item>
+        <item>Elevations</item>
+        <item>Estimations</item>
+        <item>Consulting</item>
+    </string-array>
+
+    <string name="table_planning">Site Planning &amp; Design (SPD) focuses on the application of knowledge and skills of site planning and design, including environmental, social, and economic issues, and project and practice management.</string>
+    <string name="priceTitle">Prices :</string>
+    <string name="planning_2d">2d : 2.99 /- sq ft 3d : 3.99 / sq ft</string>
+
+    <string name="table_elevations">An “elevation” is a drawing that shows the front or side of something.  A floor plan, by contrast, shows a space from above – as if you are looking down on the room from the ceiling.  Thus, you see the tops of everything, but you cannot view the front, side or back of an object.  An elevation gives you the chance to see everything from the other viewpoints.</string>
+    <string name="elevations_price">5.99 /- sq ft</string>
+
+    <string name="table_estimations">A cost estimate is the approximation of the cost of a program, project, or operation. The cost estimate is the product of the cost estimating process. ... A problem with a cost overrun can be avoided with a credible, reliable, and accurate cost estimate. A cost estimator is the professional who prepares cost estimates.</string>
+    <string name="estimations_price">Rs 4999 /- onwards </string>
+
+    <string name="table_consulting">Trust in every detail. To ensure the best outcome for your project, you need people who know what they’re doing—every step of the way. Our experienced construction consultant professionals provide effective leadership, sharp attention to detail and a valued partnership you can count on throughout the life of your project.</string>
+    <string name="consulting_price">Rs 99 /- onwards </string>
+
+    <string-array name="site_works_list">
+        <item>Budget Homes</item>
+        <item>Apartments</item>
+        <item>Premium Villas</item>
+        <item>Luxury Villas</item>
+        <item>Commercial Buildings</item>
+    </string-array>
+
+    <string name="site_budgethomes">Budget Homes is gaining popularity among the residencies in Hosur for the obvious reasons. The residency will be construct beautifully as per your requirement.</string>
+    <string name="budgethomes_price">Only 1499 /- sq ft Onwards</string>
+
+    <string name="site_apartments">An apartment is a self-contained housing unit (a type of residential real estate) that occupies only part of a building, generally on a single level. </string>
+    <string name="apartments_price">Only 1399 /- sq ft Onwards</string>
+
+    <string name="site_premium">Premium apartments have been recently renovated. However, all our apartments are maintained to a high standard and are spacious, comfortable and well equipped.</string>
+    <string name="premium_price">Only 1699 /- sq ft Onwards</string>
+
+    <string name="site_luxary">Identifying an apartment as luxury is a ploy to attract high-paying tenants and, more so, raise the monthly rent. First and foremost, most luxury apartments are relatively new, meaning they were built within the last five to seven years.</string>
+    <string name="luxary_price">Only 1899 /- sq ft Onwards</string>
+
+    <string name="site_commercial">Commercial real estate is any non-residential property used solely for business purposes. If the real estate makes money, is rented out, used for investments, or falls into a number of other categories other than being a private residence, it can be considered commercial real estate.</string>
+    <string name="commercial_price">Only 1299 /- sq ft Onwards</string>
+
+    <string-array name="interior_works_list">
+        <item>Wooden Cupboard Works</item>
+        <item>PVC Cupboard Works</item>
+        <item>Pop Board Works</item>
+        <item>Modular Kitchen</item>
+        <item>UPVC Windows &amp; Doors</item>
+        <item>Aluminium Works</item>
+        <item>Stainless Works</item>
+    </string-array>
+
+    <string name="interier_wooden">Indians have an affinity for wood when it comes to interior decor. Its dependability and availability has made it a popular choice, especially for wardrobes. Real wood is very expensive and so wood finished wardrobes have become the next best and popular alternative. Our range of modular wooden wardrobe designs have great storage capacity, look elegant and possess a universal aesthetic appeal.</string>
+    <string name="wooden_price">Only 999 /- sq ft Onwards</string>
+
+    <string name="interier_pvc">We have carved a niche amongst the most dominant names in this domain, involved in providing Kitchen Cupboard PVC Work. This Kitchen Cupboard PVC Work service is rendered by our dexterous professionals.</string>
+    <string name="pvc_price">Only 249 /- sq ft Onwards</string>
+
+    <string name="interier_pop">We are manufacturer and supplierof different types of POP designs and cornice for residential and commercial use purpose. Also we are manufacturer and supplier of POP boards and G.I channels required for designer false ceiling.</string>
+    <string name="pop_price">Only 79 /- sq ft Onwards</string>
+
+    <string name="interier_modular">Modular Kitchen a term used for the modern kitchen layout, which consists of number of cabinets to hold different things in different sections. There are two sections namely floor section and wall section, floor section is one having cabinets attached to the floor and wall section having cabinets attached to the wall and basically near to the rooftop.</string>
+    <string name="modular_price">Only 1099 /- sq ft Onwards</string>
+
+    <string name="interier_upvc">UPVC is based on polyvinyl chloride (PVC), one of the most versatile polymers found in the century. PVC today finds application in almost all facet of our life, from daily use to highly sophisticated life saving applications. This flexibility of PVC is leveraged through a unique formulation to prepare a special UPVC blend for windows and doors.</string>
+    <string name="upvc_price">Two track : 319 &amp; Three track : 399 /- sq ft Onwards</string>
+
+    <string name="interier_alumin">Aluminium is now utilised for a host of applications in building and construction and is the material of choice for curtain walling, window frames and other glazed structures. Structures like offshore living quarters, helicopter decks, balustrades, scaffolding and ladders, are also commonly made of aluminium.</string>
+    <string name="alumin_price">Only 249 /- sq ft Onwards</string>
+
+    <string name="interier_stain">Structural Design of Stainless Steel. Stainless steel is being used increasingly as a structural material. It is important that its distinctive properties as compared to standard carbon and alloy structural steels are understood and built in to the design of structural components. Fire Resistant Design.</string>
+    <string name="stain_price">Only 799 /- sq ft Onwards</string>
+
+    <string-array name="landscape_works_list">
+        <item>Roof Gardening</item>
+        <item>Floor Gardening</item>
+        <item>Swimming Pools</item>
+        <item>Modern Campfire</item>
+        <item>Bamboo Works</item>
+        <item>Modern Natural Tent House</item>
+        <item>Plantations</item>
+    </string-array>
+
+    <string name="landscape_roof">A roof garden is a garden on the roof of a building. Besides the decorative benefit, roof plantings may provide food, temperature control, hydrological benefits, architectural enhancement, habitats or corridors for wildlife, recreational opportunities, and in large scale it may even have ecological benefits.</string>
+    <string name="roof_price">Only 449 /- sq ft Onwards</string>
+
+    <string name="landscape_floor">Every room needs a floor, and outdoor garden rooms are no exception. Paths, decks, patios, overlooks, trash can storage pads, lawns, ground cover plantings ... they’re all floors. If you can walk on it, store something on it or roll around on it, We call it a floor.</string>
+    <string name="floor_price">Only 399 /- sq ft Onwards</string>
+
+    <string name="landscape_swim">Non-structural maintenance and general repair of swimming pools and spas, Install pool accessories, including, for example, pool heating systems, Landscaping works associated with the maintenance and general repair of swimming pools and spas, including pool fencing and paving.</string>
+    <string name="swim_price">Depends on needs &amp; requirement</string>
+
+    <string name="landscape_modern">How many ways can you build a campfire? About as many ways as you can cook using them. I’ll describe some traditional ways to build a fire and perhaps a few that may be new to you. There are generally two parts to firecraft: 1) the creation of a flame and 2) sustaining the flame as a fire. Building a fire by constructing a campfire is the focus of this text.</string>
+    <string name="modern_price">Depends on needs &amp; requirement</string>
+
+    <string name="landscape_bamboo">Bamboo can be utilized as a building material as for scaffolding, bridges and houses. Bamboo, like true wood, is a natural composite material with a high strength-to-weight ratio useful for structures. Bamboo has a higher compressive strength than wood, brick or concrete and a tensile strength that rivals steel.</string>
+    <string name="bamboo_price">Only 899 /- sq ft Onwards</string>
+
+    <string name="landscape_tent">It’s a house...It’s a tent...It’s a Tent House! Rising in a rainforest near Australia’s Sunshine Coast, this new family retreat didn’t just don a big tent for looks alone. Indeed, the striking cover creates an expanded living space that offers the best of indoor-outdoor living on a compact site.</string>
+    <string name="tent_price">Only 249 /- sq ft Onwards</string>
+
+    <string name="landscape_plant">We enjoy seeing our beautiful products used in gorgeous design and building solutions, and understand the importance of using sustainable products, that are truly hard wearing and do not compromise beauty or aesthetics.</string>
+    <string name="plant_price">Depends on needs &amp; requirement</string>
+
+    <string-array name="painting_works_list">
+        <item>Wall Arts</item>
+        <item>2D &amp; 3D Paintings</item>
+        <item>Animation Paintings</item>
+        <item>Wooden Paintings</item>
+        <item>Wall Paper Works</item>
+        <item>Budget Design Works</item>
+    </string-array>
+
+    <string name="painting_wallart">We narrowed it down a little to our top 100 favorite ideas. Whether you’re into metallics or neon, color block or obmre, 2D or 3D there’s an idea here to fit your home and your budget. Be sure to tell us in the comments which is your favorite.</string>
+    <string name="wallart_price">Only 999 /- sq ft Onwards</string>
+
+    <string name="painting_2d">2D &amp; 3D Colorblock Wall Art: This 3D circle installation proves that when it comes to color block, it’s not always hip to be square. (via Curbly)</string>
+    <string name="twod_price">2D : 59 &amp; 3D : 119 /- sq ft Onwards</string>
+
+    <string name="painting_anim">We will look at the different techniques you can use for your animation in After Effects to bring your painting to life. Along the way we will also be looking at Trapcode Particular and animation basics to create our moving elements such as birds and leaves.</string>
+    <string name="anim_price">Only 219 /- sq ft Onwards</string>
+
+    <string name="painting_wooden">A panel painting is a painting made on a flat panel made of wood, either a single piece, or a number of pieces joined together. Until canvas became the more popular support medium in the 16th century, it was the normal form of support for a painting not on a wall (fresco) or vellum, which was used for miniatures in illuminated manuscripts and paintings for the framing.</string>
+    <string name="wodden_price">Only 219 /- sq ft Onwards</string>
+
+    <string name="painting_wallpaper">There is a vast variety of wallpaper colors and styles to choose from. Vinyl is great for areas with a lot of moisture such as kitchens and bathrooms. For places that stay dry such as bedrooms and hallways, it is best to use non-woven papers and fabrics.</string>
+    <string name="wallpaper_price">Only 69 /- sq ft Onwards</string>
+
+    <string name="painting_budget">Budget for building design and construction projects. A budget is a statement of the amount of money that is available to spend over a period of time, or on a specific thing, such as a building. It may include an outline plan for how that money will be spent, and a breakdown of the items it will be spent on.</string>
+    <string name="budget_price">Depends on needs &amp; requirement</string>
+
+    <string-array name="raw_works_list">
+        <item>Blue Materials</item>
+        <item>Manufacturing Sand (M-Sand)</item>
+        <item>Red Bricks</item>
+        <item>Hollow Blocks</item>
+        <item>Solid Blocks</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="contact_us_list">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Instagram</item>
+        <item>Whats app</item>
+    </string-array>
+
+    <string-array name="about_us_list">
+        <item>Blog (Daily Updates)</item>
+        <item>News feed</item>
+        <item>Q &amp; A</item>
+        <item>About Us</item>
+    </string-array>
+
+</resources>

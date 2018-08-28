@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gymhunt</string>
+
+    <string-array name="gym_category_list">
+        <item>Gain Muscle</item>
+        <item>Loss Weight</item>
+        <item>Six-Pack</item>
+        <item>Fitness</item>
+        <item>Nutrition</item>
+        <item>Cardio</item>
+    </string-array>
+
+</resources>
